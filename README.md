@@ -37,6 +37,3 @@ How to Run
 6. Open the application in your browser.
 
 
-Shada Anjoom KP
-
-GitHub: https://github.com/shada-anjoom
